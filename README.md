@@ -1,4 +1,4 @@
-Profile ported to Samsung Galaxy M55: https://github.com/sarabpal-dev/IonStack-S22U. 
+Profile ported to Samsung Galaxy M55 (SM-M556B) and Galaxy F55 (SM-E556B) e : https://github.com/sarabpal-dev/IonStack-S22U. 
 All credit goes to the respective authors.
 
 # Specs
